@@ -1,5 +1,7 @@
 # Prepare pruned models
 
+https://github.com/daquexian/onnx-simplifier/blob/master/onnxsim/onnx_simplifier.py
+
 ### going into distiller
 ```
 conda activate distiller
